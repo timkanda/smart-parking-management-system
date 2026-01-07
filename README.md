@@ -87,7 +87,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/smart-parking-management-system.git
+git clone https://github.com/timkanda/smart-parking-management-system.git
 cd smart-parking-management-system
 
 # Build the project
@@ -177,10 +177,9 @@ mvn surefire-report:report
 
 ## Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
+**Timothy Kanda**
+- GitHub: [@timkanda](https://github.com/timkanda)
+- LinkedIn: [Timothy Kanda](https://www.linkedin.com/in/timothy-kanda-aaa190b4/)
 
 ## License
 
